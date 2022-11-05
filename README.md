@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @A-J-04
+- 👋 Hi, I’m Avaneesh Jaiswar.
 - 👀 I’m interested in - Open Source Technologies.
 - 🌱 I’m currently learning - Python,Java,R,Shell scripting.
 - 💞️ I’m looking to collaborate on - innovative solutions.
