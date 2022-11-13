@@ -1,0 +1,12 @@
+#for installation of java in termux your termux should be installed from F-droid or Github.
+#run the following command one by one:
+apt update && apt upgrade
+ pkg search openjdk
+ pkg install openjdk-17
+ pkg install vim
+#for creating a file :
+ vim <filename.java>
+#for compiling java file:
+ javac <filename.java>
+#for running (after compiling):
+ java <filename>
